@@ -1,0 +1,48 @@
+  {
+    "cv": {
+        "basics":{
+          "name": "Pedro Perez",
+          "age": 30,
+          "direction": "Barcelona",
+          "image": "https://avatars0.githubusercontent.com/u/58340587?v=4",
+          "phone": 651778899,
+          "url": "http://www.pedroperez.com",
+          "email": "pedroperez@gmail.com"
+        },
+        "profiles":{
+          "network": "GitHub",
+          "username": "pedroperez",
+          "url": "https://github.com/pedroperez"
+        },
+      "skills":{
+          "name": "Javascript",
+          "level": "Advanced",
+          "yearsOfExperience": 11
+        },
+      "studies":{
+          "title": "full stack developer",
+          "institute": "factoria F5",
+          "years": 5
+        },
+      "projects":{
+          "name": "frankenwheel of doom",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "url": "https://frankenwheel-of-doom.github.io/doom-project/sacrificio.html",
+          "roles": "",
+          "languages": [
+            "html",
+            "css",
+            "javascript"
+          ]
+        },
+      "work experience":{
+          "name": "Empresa xxx s.l",
+          "rols": "Developer full stack",
+          "yearsOfExperience": 2
+        },
+      "languages":{
+          "idiom": "English",
+          "level": "B2"
+        }
+    }
+  }
